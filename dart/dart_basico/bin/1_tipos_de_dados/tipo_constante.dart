@@ -1,8 +1,8 @@
 void main(){
   //Nunca vou precisa mudar essa informação
-  const String nameSystem = "Urna Eletronica Digal";
+  const String nameSystem = "Urna Eletronica Digital";
   const double version = 1.0;
-  print("Sitema: ${nameSystem}");
+  print("Sistema: ${nameSystem}");
   print("versão: ${version}");
 
   final DateTime access = DateTime.now();
